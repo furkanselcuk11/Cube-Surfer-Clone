@@ -65,7 +65,6 @@ public class picker : MonoBehaviour
         if (other.gameObject.tag== "LevelFinish")
         {
             Debug.Log("Level Sonu");
-            //Time.timeScale = 0.01f;
             playerCubeObj.GetComponent<playerMovement>().forwardSpeed = 0;
         }
     }
