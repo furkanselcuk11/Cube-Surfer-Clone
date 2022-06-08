@@ -2819,7 +2819,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   target: {fileID: 1703637826}
-  distance: {x: 3, y: 10, z: -10}
+  distance: {x: 1, y: 10, z: -10}
   offsetPositionSpace: 1
   lookAt: 1
 --- !u!1001 &980354064
