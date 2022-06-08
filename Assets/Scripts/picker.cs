@@ -8,14 +8,18 @@ public class picker : MonoBehaviour
     GameObject playerCubeObj;
     public ParticleSystem diamondEffect;
     int height; // Her CollectCube yakaladýðýmzda artan yükseklik
+
+    public GameObject gamePanel, finishPanel;
     int score;
     public Transform cubeCollectText;
     public TextMeshProUGUI gameScoreTxt;
+    public TextMeshProUGUI finishScoreTxt;
     
     void Start()
     {
         playerCubeObj = GameObject.Find("PlayerCube");
         score = 0;
+        finishPanel.SetActive(false);
         gameScoreTxt.text = score.ToString();
     }
     void Update()
@@ -61,6 +65,9 @@ public class picker : MonoBehaviour
         if (other.gameObject.tag== "Finish")
         {
             Debug.Log("Oyun Tamamlandý");
+            finishScoreTxt.text = score.ToString();
+            finishPanel.SetActive(true);
+            gamePanel.SetActive(false);
         }
         if (other.gameObject.tag== "LevelFinish")
         {

@@ -1010,7 +1010,7 @@ GameObject:
   - component: {fileID: 322112189}
   - component: {fileID: 322112188}
   m_Layer: 5
-  m_Name: ScoreText
+  m_Name: FinishScoreText
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1151,7 +1151,7 @@ GameObject:
   - component: {fileID: 330371457}
   - component: {fileID: 330371456}
   m_Layer: 5
-  m_Name: GameCanvas
+  m_Name: GamePanel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1231,7 +1231,7 @@ RectTransform:
   m_Children:
   - {fileID: 59696868}
   m_Father: {fileID: 0}
-  m_RootOrder: 14
+  m_RootOrder: 13
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -1727,12 +1727,12 @@ GameObject:
   - component: {fileID: 711914066}
   - component: {fileID: 711914065}
   m_Layer: 5
-  m_Name: FinishCanvas
+  m_Name: FinishPanel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &711914065
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2208,7 +2208,7 @@ GameObject:
   - component: {fileID: 833470916}
   - component: {fileID: 833470915}
   m_Layer: 5
-  m_Name: FinishText
+  m_Name: GreatText
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3616,7 +3616,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 13
+  m_RootOrder: 14
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1321458785
 PrefabInstance:
@@ -4397,8 +4397,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   diamondEffect: {fileID: 723344753}
+  gamePanel: {fileID: 330371455}
+  finishPanel: {fileID: 711914064}
   cubeCollectText: {fileID: 4616487833772535277, guid: 7e5ad2c78ac96134899455cbfef1cac1, type: 3}
   gameScoreTxt: {fileID: 1908237742}
+  finishScoreTxt: {fileID: 322112188}
 --- !u!65 &1703637829
 BoxCollider:
   m_ObjectHideFlags: 0
