@@ -1,0 +1,1598 @@
+Using pre-set license
+Built from '2021.1/release' branch; Version is '2021.1.1f1 (6fdc41dfa55a) revision 7330881'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19044.1706; Version 2009; 64bit' Language: 'tr' Physical Memory: 8080 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.1.1f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker1
+-projectPath
+D:/Unity/Cube Surfers Tutorial
+-logFile
+Logs/AssetImportWorker1.log
+-srvPort
+49821
+Successfully changed project path to: D:/Unity/Cube Surfers Tutorial
+D:/Unity/Cube Surfers Tutorial
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 92.08 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.1.1f1 (6fdc41dfa55a)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.1.1f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Unity/Cube Surfers Tutorial/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce MX150 (ID=0x1d10)
+    Vendor:   NVIDIA
+    VRAM:     1983 MB
+    Driver:   30.0.15.1295
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.1.1f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.1.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.1.1f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56264
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.1.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001150 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 90.54 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  6.043 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.004988 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.56 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.111 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.17 seconds
+Refreshing native plugins compatible for Editor in 0.87 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2727 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 115.8 MB.
+System memory in use after: 115.9 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 3199.
+Total: 2.519200 ms (FindLiveObjects: 0.260800 ms CreateObjectMapping: 0.148500 ms MarkObjects: 2.004100 ms  DeleteObjects: 0.105000 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/ART/Supercyan Character Pack Free Sample/Animations/MaleFree1.controller
+  artifactKey: Guid(5422ca9ecd3f17e4698104bc148b2544) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ART/Supercyan Character Pack Free Sample/Animations/MaleFree1.controller using Guid(5422ca9ecd3f17e4698104bc148b2544) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e24d53ddde7622d984203746fa289ecc') in 0.103395 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003462 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.64 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.113 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.61 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2710 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 113.8 MB.
+System memory in use after: 114.0 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3202.
+Total: 2.858100 ms (FindLiveObjects: 0.496300 ms CreateObjectMapping: 0.202900 ms MarkObjects: 2.089000 ms  DeleteObjects: 0.068900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002959 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.66 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.134 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.88 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2710 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 113.9 MB.
+System memory in use after: 114.1 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3205.
+Total: 3.718500 ms (FindLiveObjects: 0.721500 ms CreateObjectMapping: 0.441400 ms MarkObjects: 2.494100 ms  DeleteObjects: 0.056000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003298 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.128 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.69 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2710 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 113.9 MB.
+System memory in use after: 114.1 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3208.
+Total: 3.637800 ms (FindLiveObjects: 0.416800 ms CreateObjectMapping: 0.258000 ms MarkObjects: 2.889700 ms  DeleteObjects: 0.070100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003884 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.64 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.129 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.82 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2710 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 113.9 MB.
+System memory in use after: 114.1 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3211.
+Total: 2.846800 ms (FindLiveObjects: 0.466100 ms CreateObjectMapping: 0.188400 ms MarkObjects: 2.094900 ms  DeleteObjects: 0.096100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005034 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.71 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.127 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.58 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2709 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 113.9 MB.
+System memory in use after: 114.1 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 3213.
+Total: 2.626400 ms (FindLiveObjects: 0.474700 ms CreateObjectMapping: 0.196900 ms MarkObjects: 1.866900 ms  DeleteObjects: 0.086600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 563.693704 seconds.
+  path: Assets/SimpleCumulus/Skyboxes/Gradient/SimpleCumulus_Gradient_07/Textures/Right.2048x2048.png
+  artifactKey: Guid(63ca940ecd5825c4caf4eb55c8c8d0d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleCumulus/Skyboxes/Gradient/SimpleCumulus_Gradient_07/Textures/Right.2048x2048.png using Guid(63ca940ecd5825c4caf4eb55c8c8d0d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9bb1e905817951f5f5bc12953a57621') in 0.858410 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000371 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Roboto-Bold SDF.asset
+  artifactKey: Guid(5302535af1044152a457ed104f1f4b91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Roboto-Bold SDF.asset using Guid(5302535af1044152a457ed104f1f4b91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '157bb178d48e979559d6617939ec95a3') in 0.215605 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000373 seconds.
+  path: Assets/SimpleCumulus/Skyboxes/Gradient/SimpleCumulus_Gradient_01/Textures/Up.2048x2048.png
+  artifactKey: Guid(fc1dfbda2ec1ca942825044266ff232b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleCumulus/Skyboxes/Gradient/SimpleCumulus_Gradient_01/Textures/Up.2048x2048.png using Guid(fc1dfbda2ec1ca942825044266ff232b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe227dac30283c10084307a2ea804185') in 0.270413 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000413 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Textures/Text Overflow - Linked Text Image 1.png
+  artifactKey: Guid(4ccf43d26c4748c792174516f4a8fcef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Textures/Text Overflow - Linked Text Image 1.png using Guid(4ccf43d26c4748c792174516f4a8fcef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa0c99a9026dda711d1de3bd0d0307bf') in 0.048079 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000568 seconds.
+  path: Assets/SimpleCumulus/Skyboxes/PlainColor/Blue/SimpleCumulus_Blue_02/Textures/Right.2048x2048.png
+  artifactKey: Guid(100210960936bca46bb20fdf75e204b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleCumulus/Skyboxes/PlainColor/Blue/SimpleCumulus_Blue_02/Textures/Right.2048x2048.png using Guid(100210960936bca46bb20fdf75e204b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '970e9fb94a87d799fff590f1ebfac352') in 0.283451 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000373 seconds.
+  path: Assets/SimpleCumulus/Skyboxes/Gradient/SimpleCumulus_Gradient_04/Textures/Up.2048x2048.png
+  artifactKey: Guid(f7a72934c397b384394b4a4ba54ec153) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleCumulus/Skyboxes/Gradient/SimpleCumulus_Gradient_04/Textures/Up.2048x2048.png using Guid(f7a72934c397b384394b4a4ba54ec153) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b1234e1d299db034102fb0820c12533') in 0.238329 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000308 seconds.
+  path: Assets/SimpleCumulus/Skyboxes/PlainColor/Red/SimpleCumulus_Red_01/Textures/Up.2048x2048.png
+  artifactKey: Guid(0379c5186ca07ca4a8d5fca14d08c243) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleCumulus/Skyboxes/PlainColor/Red/SimpleCumulus_Red_01/Textures/Up.2048x2048.png using Guid(0379c5186ca07ca4a8d5fca14d08c243) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71fd09c431f100666d3b7fa8f501bfa4') in 0.311613 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000342 seconds.
+  path: Assets/SimpleCumulus/Skyboxes/PlainColor/Blue/SimpleCumulus_Blue_06/Textures/Up.2048x2048.png
+  artifactKey: Guid(6eab017b329d63b41b4a1c57897fccbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleCumulus/Skyboxes/PlainColor/Blue/SimpleCumulus_Blue_06/Textures/Up.2048x2048.png using Guid(6eab017b329d63b41b4a1c57897fccbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b49e2dd2366f19b286292d1fe433f3a2') in 0.288455 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000322 seconds.
+  path: Assets/SimpleCumulus/Skyboxes/PlainColor/Red/SimpleCumulus_Red_02/Textures/Up.2048x2048.png
+  artifactKey: Guid(08eff270a36664540848476375dbdf1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleCumulus/Skyboxes/PlainColor/Red/SimpleCumulus_Red_02/Textures/Up.2048x2048.png using Guid(08eff270a36664540848476375dbdf1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2f31f3995c20169646523380c4b16f9') in 0.354836 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000344 seconds.
+  path: Assets/SimpleCumulus/Skyboxes/PlainColor/Purple/SimpleCumulus_Purple_01/Textures/Up.2048x2048.png
+  artifactKey: Guid(ae5e7a5a1260de84e849bafc2164cb53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleCumulus/Skyboxes/PlainColor/Purple/SimpleCumulus_Purple_01/Textures/Up.2048x2048.png using Guid(ae5e7a5a1260de84e849bafc2164cb53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d174c87f1b97e1c22e80b1c45db83a6') in 0.314426 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000255 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Textures/Wipe Pattern - Circle.psd
+  artifactKey: Guid(10c49fcd9c64421db7c0133e61e55f97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Textures/Wipe Pattern - Circle.psd using Guid(10c49fcd9c64421db7c0133e61e55f97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9cc7b55ad930f33e881d29ffbbf45b1b') in 0.083825 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/SimpleCumulus/Skyboxes/Gradient/SimpleCumulus_Gradient_07/Textures/Up.2048x2048.png
+  artifactKey: Guid(93d57bf964d636b40bf4245845236ba3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleCumulus/Skyboxes/Gradient/SimpleCumulus_Gradient_07/Textures/Up.2048x2048.png using Guid(93d57bf964d636b40bf4245845236ba3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70e2d0251d77c2a4d3bc0374369115b0') in 0.280085 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000362 seconds.
+  path: Assets/SimpleCumulus/Skyboxes/Gradient/SimpleCumulus_Gradient_08/Textures/Up.2048x2048.png
+  artifactKey: Guid(a089acba17a649a41a63a6dba8ef9168) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleCumulus/Skyboxes/Gradient/SimpleCumulus_Gradient_08/Textures/Up.2048x2048.png using Guid(a089acba17a649a41a63a6dba8ef9168) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '272812e20d302cd01653f42e692976a3') in 0.321978 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000312 seconds.
+  path: Assets/SimpleCumulus/Skyboxes/Gradient/SimpleCumulus_Gradient_03/Textures/Up.2048x2048.png
+  artifactKey: Guid(1b208951c72f9f04c834932ea1fb72be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleCumulus/Skyboxes/Gradient/SimpleCumulus_Gradient_03/Textures/Up.2048x2048.png using Guid(1b208951c72f9f04c834932ea1fb72be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c095a1d1234a6893ea343eb17d9f5a37') in 0.296540 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000377 seconds.
+  path: Assets/SimpleCumulus/Skyboxes/PlainColor/Purple/SimpleCumulus_Purple_02/Textures/Up.2048x2048.png
+  artifactKey: Guid(95adf960ed7d8f444829716205bb461c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleCumulus/Skyboxes/PlainColor/Purple/SimpleCumulus_Purple_02/Textures/Up.2048x2048.png using Guid(95adf960ed7d8f444829716205bb461c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '067cd003997b74925b6ae7439fd13603') in 0.242294 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000330 seconds.
+  path: Assets/SimpleCumulus/Skyboxes/PlainColor/Red/SimpleCumulus_Red_04/Textures/Up.2048x2048.png
+  artifactKey: Guid(f2c6c7b80f190de43a43cac5ba6b1151) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleCumulus/Skyboxes/PlainColor/Red/SimpleCumulus_Red_04/Textures/Up.2048x2048.png using Guid(f2c6c7b80f190de43a43cac5ba6b1151) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa72ed737d0c6a5ba782f85761a94d33') in 0.363276 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000324 seconds.
+  path: Assets/SimpleCumulus/Skyboxes/PlainColor/Orange/SimpleCumulus_Orange_03/Textures/Right.2048x2048.png
+  artifactKey: Guid(fa94d905eacf51b43b4b76ff9f3f087d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleCumulus/Skyboxes/PlainColor/Orange/SimpleCumulus_Orange_03/Textures/Right.2048x2048.png using Guid(fa94d905eacf51b43b4b76ff9f3f087d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92f0ea9e1534a9ff6f4eae1e8a871e23') in 0.302082 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000359 seconds.
+  path: Assets/SimpleCumulus/Skyboxes/PlainColor/Red/SimpleCumulus_Red_03/Textures/Up.2048x2048.png
+  artifactKey: Guid(02e6df46755d07a4bbc0d61548089df3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleCumulus/Skyboxes/PlainColor/Red/SimpleCumulus_Red_03/Textures/Up.2048x2048.png using Guid(02e6df46755d07a4bbc0d61548089df3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c706af4cb868ddeb3ddeb9da04a21ecf') in 0.315221 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000377 seconds.
+  path: Assets/SimpleCumulus/Skyboxes/Gradient/SimpleCumulus_Gradient_05/Textures/Right.2048x2048.png
+  artifactKey: Guid(0d0557500015fa04abfdb9ddb12ae9e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleCumulus/Skyboxes/Gradient/SimpleCumulus_Gradient_05/Textures/Right.2048x2048.png using Guid(0d0557500015fa04abfdb9ddb12ae9e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd17b0752ec0e6ad552b668447720ea7a') in 0.252068 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000350 seconds.
+  path: Assets/SimpleCumulus/Skyboxes/PlainColor/Purple/SimpleCumulus_Purple_06/Textures/Right.2048x2048.png
+  artifactKey: Guid(f9afa333e74726647bb075b14bcb7684) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleCumulus/Skyboxes/PlainColor/Purple/SimpleCumulus_Purple_06/Textures/Right.2048x2048.png using Guid(f9afa333e74726647bb075b14bcb7684) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53616badd4f510e688d2eadee3d04fdb') in 0.268065 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000367 seconds.
+  path: Assets/SimpleCumulus/Skyboxes/PlainColor/Orange/SimpleCumulus_Orange_01/Textures/Up.2048x2048.png
+  artifactKey: Guid(c549cc26b9cfa734c8809c380c3d4824) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleCumulus/Skyboxes/PlainColor/Orange/SimpleCumulus_Orange_01/Textures/Up.2048x2048.png using Guid(c549cc26b9cfa734c8809c380c3d4824) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '808dcc9618897fcadaab69f5aa6775c0') in 0.383760 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000369 seconds.
+  path: Assets/SimpleCumulus/Skyboxes/PlainColor/Blue/SimpleCumulus_Blue_06/Textures/Right.2048x2048.png
+  artifactKey: Guid(d51df033a0b4d4c40881975ccd659cb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleCumulus/Skyboxes/PlainColor/Blue/SimpleCumulus_Blue_06/Textures/Right.2048x2048.png using Guid(d51df033a0b4d4c40881975ccd659cb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5260c89642a61cbdcaa9302e225ca8de') in 0.349188 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000324 seconds.
+  path: Assets/SimpleCumulus/Skyboxes/PlainColor/Orange/SimpleCumulus_Orange_02/Textures/Up.2048x2048.png
+  artifactKey: Guid(f0db94fdde5cad040ae5fd531891b59f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleCumulus/Skyboxes/PlainColor/Orange/SimpleCumulus_Orange_02/Textures/Up.2048x2048.png using Guid(f0db94fdde5cad040ae5fd531891b59f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e897f3deb4900460ebdaa3ebc09c0150') in 0.324644 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000366 seconds.
+  path: Assets/SimpleCumulus/Skyboxes/PlainColor/Blue/SimpleCumulus_Blue_02/Textures/Up.2048x2048.png
+  artifactKey: Guid(91bb31aa3b3669c43b8697dfdbdc2f6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleCumulus/Skyboxes/PlainColor/Blue/SimpleCumulus_Blue_02/Textures/Up.2048x2048.png using Guid(91bb31aa3b3669c43b8697dfdbdc2f6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f48263bca551fbe6017db2e43e0599d') in 0.370988 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000360 seconds.
+  path: Assets/SimpleCumulus/Skyboxes/PlainColor/Orange/SimpleCumulus_Orange_01/Textures/Right.2048x2048.png
+  artifactKey: Guid(033c1f381e651a246b378d3cae876527) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleCumulus/Skyboxes/PlainColor/Orange/SimpleCumulus_Orange_01/Textures/Right.2048x2048.png using Guid(033c1f381e651a246b378d3cae876527) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f9edd950122c11c35e59cf5b3fdfc67') in 0.308637 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/SimpleCumulus/Skyboxes/PlainColor/Purple/SimpleCumulus_Purple_05/Textures/Right.2048x2048.png
+  artifactKey: Guid(07ecda1c28f0c3f47abcf2c5a564d4ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleCumulus/Skyboxes/PlainColor/Purple/SimpleCumulus_Purple_05/Textures/Right.2048x2048.png using Guid(07ecda1c28f0c3f47abcf2c5a564d4ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43ba3f72169da6c6a626a92d2c466b5c') in 0.337000 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000318 seconds.
+  path: Assets/SimpleCumulus/Skyboxes/Gradient/SimpleCumulus_Gradient_02/Textures/Right.2048x2048.png
+  artifactKey: Guid(64aaf6e2b97b25e4d8abd0ea715a170c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleCumulus/Skyboxes/Gradient/SimpleCumulus_Gradient_02/Textures/Right.2048x2048.png using Guid(64aaf6e2b97b25e4d8abd0ea715a170c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43aaa4a9adf6c01ff9d8ed06e5de2f04') in 0.468409 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000372 seconds.
+  path: Assets/SimpleCumulus/Skyboxes/Gradient/SimpleCumulus_Gradient_10/Textures/Up.2048x2048.png
+  artifactKey: Guid(8191777527b3acf4e95b303f7f7cb5c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleCumulus/Skyboxes/Gradient/SimpleCumulus_Gradient_10/Textures/Up.2048x2048.png using Guid(8191777527b3acf4e95b303f7f7cb5c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86984fe02e9f9b7e36469360daca6b74') in 0.338093 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000372 seconds.
+  path: Assets/SimpleCumulus/Skyboxes/PlainColor/Blue/SimpleCumulus_Blue_03/Textures/Up.2048x2048.png
+  artifactKey: Guid(14bef8d08940b0b4ba4e65bb6f80ba5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleCumulus/Skyboxes/PlainColor/Blue/SimpleCumulus_Blue_03/Textures/Up.2048x2048.png using Guid(14bef8d08940b0b4ba4e65bb6f80ba5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9763cff9c17f0401e0ac8808a44d45c7') in 0.285462 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000397 seconds.
+  path: Assets/SimpleCumulus/Skyboxes/Gradient/SimpleCumulus_Gradient_09/Textures/Right.2048x2048.png
+  artifactKey: Guid(9e9c1abbdb1a5b348bfa874ea3b6a9b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleCumulus/Skyboxes/Gradient/SimpleCumulus_Gradient_09/Textures/Right.2048x2048.png using Guid(9e9c1abbdb1a5b348bfa874ea3b6a9b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ce4c8a65611deb76b721199f9f74441') in 0.309439 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002928 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.54 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.069 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.97 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2739 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 0.55 GB.
+System memory in use after: 0.55 GB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3710.
+Total: 3.421500 ms (FindLiveObjects: 0.509900 ms CreateObjectMapping: 0.267900 ms MarkObjects: 2.508800 ms  DeleteObjects: 0.132500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 101.538431 seconds.
+  path: Assets/Materials/CubeMaterial.mat
+  artifactKey: Guid(6b130d9fd3dc84b4b892fbd4e20695c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/CubeMaterial.mat using Guid(6b130d9fd3dc84b4b892fbd4e20695c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d11600533433b5f5ec1ce8cc97a0b90') in 0.243411 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002804 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.68 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.044 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.64 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2709 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 0.55 GB.
+System memory in use after: 0.55 GB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3715.
+Total: 3.741300 ms (FindLiveObjects: 0.638800 ms CreateObjectMapping: 0.272500 ms MarkObjects: 2.693000 ms  DeleteObjects: 0.136000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 128.802758 seconds.
+  path: Assets/Materials/SkyboxMaterial.mat
+  artifactKey: Guid(c23b4cf777559ae48ab5ac273c7c7cfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/SkyboxMaterial.mat using Guid(c23b4cf777559ae48ab5ac273c7c7cfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd2ec8689cfa19fd3ff0a5d7e866acae') in 0.252558 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 10.648988 seconds.
+  path: Assets/SimpleCumulus/Skyboxes/Gradient/SimpleCumulus_Gradient_10/Textures/Back.2048x2048.png
+  artifactKey: Guid(15dd058218d5bfe4081204fc90801942) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleCumulus/Skyboxes/Gradient/SimpleCumulus_Gradient_10/Textures/Back.2048x2048.png using Guid(15dd058218d5bfe4081204fc90801942) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d7839e346467b89f5a42368f6e4f8a5') in 0.474851 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/SimpleCumulus/Skyboxes/PlainColor/Red/SimpleCumulus_Red_01/Textures/Down.2048x2048.png
+  artifactKey: Guid(66ef71f618478f44e9ba5b161a72476e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleCumulus/Skyboxes/PlainColor/Red/SimpleCumulus_Red_01/Textures/Down.2048x2048.png using Guid(66ef71f618478f44e9ba5b161a72476e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6170b5467122ec5a1c70be22819341f9') in 0.369217 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000754 seconds.
+  path: Assets/SimpleCumulus/Skyboxes/PlainColor/Orange/SimpleCumulus_Orange_04/Textures/Down.2048x2048.png
+  artifactKey: Guid(8c3ab7b3bdafae9479fa8275136f681f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleCumulus/Skyboxes/PlainColor/Orange/SimpleCumulus_Orange_04/Textures/Down.2048x2048.png using Guid(8c3ab7b3bdafae9479fa8275136f681f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afd3d17f9133be32c430d560a687b2a0') in 0.340882 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000423 seconds.
+  path: Assets/SimpleCumulus/Skyboxes/PlainColor/Purple/SimpleCumulus_Purple_06/Textures/Down.2048x2048.png
+  artifactKey: Guid(6246c62c318190c448b82dafca638510) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleCumulus/Skyboxes/PlainColor/Purple/SimpleCumulus_Purple_06/Textures/Down.2048x2048.png using Guid(6246c62c318190c448b82dafca638510) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c5f204c58572a4a2ce170a776ee150c') in 0.256569 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000348 seconds.
+  path: Assets/SimpleCumulus/Skyboxes/PlainColor/Blue/SimpleCumulus_Blue_05/Textures/Down.2048x2048.png
+  artifactKey: Guid(813c290a19a3e5e4b9906056363890d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleCumulus/Skyboxes/PlainColor/Blue/SimpleCumulus_Blue_05/Textures/Down.2048x2048.png using Guid(813c290a19a3e5e4b9906056363890d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4bf5a55e4c7aa46b40f2d153e4b8034b') in 0.292324 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000351 seconds.
+  path: Assets/SimpleCumulus/Skyboxes/Gradient/SimpleCumulus_Gradient_02/Textures/Back.2048x2048.png
+  artifactKey: Guid(1b603df15ac97344f9f129811d78694f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleCumulus/Skyboxes/Gradient/SimpleCumulus_Gradient_02/Textures/Back.2048x2048.png using Guid(1b603df15ac97344f9f129811d78694f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32d381f8aee9baa450888ed6b0f43669') in 0.351482 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000361 seconds.
+  path: Assets/SimpleCumulus/Skyboxes/PlainColor/Orange/SimpleCumulus_Orange_03/Textures/Back.2048x2048.png
+  artifactKey: Guid(1c63bad5e045ab9479d8897e87cbb2b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleCumulus/Skyboxes/PlainColor/Orange/SimpleCumulus_Orange_03/Textures/Back.2048x2048.png using Guid(1c63bad5e045ab9479d8897e87cbb2b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57aa1f6a1f2b0e616eac063e34fe28f8') in 0.276890 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000324 seconds.
+  path: Assets/SimpleCumulus/Skyboxes/PlainColor/Orange/SimpleCumulus_Orange_02/Textures/Back.2048x2048.png
+  artifactKey: Guid(85c569e8154de7b488ad109236c5b775) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleCumulus/Skyboxes/PlainColor/Orange/SimpleCumulus_Orange_02/Textures/Back.2048x2048.png using Guid(85c569e8154de7b488ad109236c5b775) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92544f4a9985f47441426e08b4bd34a4') in 0.307103 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000349 seconds.
+  path: Assets/SimpleCumulus/Skyboxes/PlainColor/Orange/SimpleCumulus_Orange_04/Textures/Back.2048x2048.png
+  artifactKey: Guid(7a4f4ffcd90bd644c824dd99c452ef5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleCumulus/Skyboxes/PlainColor/Orange/SimpleCumulus_Orange_04/Textures/Back.2048x2048.png using Guid(7a4f4ffcd90bd644c824dd99c452ef5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2efcd0b4f8bcd12c80229321c8a1847f') in 0.323472 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.004464 seconds.
+  path: Assets/SimpleCumulus/Skyboxes/PlainColor/Orange/SimpleCumulus_Orange_01/Textures/Down.2048x2048.png
+  artifactKey: Guid(b919b699c8defb046a32c65d5a3a1856) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleCumulus/Skyboxes/PlainColor/Orange/SimpleCumulus_Orange_01/Textures/Down.2048x2048.png using Guid(b919b699c8defb046a32c65d5a3a1856) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bda2dc37d346aa7c9153cd09e585a707') in 0.320708 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Assets/SimpleCumulus/Skyboxes/PlainColor/Blue/SimpleCumulus_Blue_05/Textures/Back.2048x2048.png
+  artifactKey: Guid(7dd29206572940e41b2e08bafa3a9f1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleCumulus/Skyboxes/PlainColor/Blue/SimpleCumulus_Blue_05/Textures/Back.2048x2048.png using Guid(7dd29206572940e41b2e08bafa3a9f1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12eb956d04244a8fa95c2cf7e509ca12') in 0.272847 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000434 seconds.
+  path: Assets/SimpleCumulus/Skyboxes/PlainColor/Blue/SimpleCumulus_Blue_01/Textures/Back.2048x2048.png
+  artifactKey: Guid(7805bf80f0bf367438353641189fcbf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleCumulus/Skyboxes/PlainColor/Blue/SimpleCumulus_Blue_01/Textures/Back.2048x2048.png using Guid(7805bf80f0bf367438353641189fcbf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47170d3b0bd2e3d94b59c5b845671d05') in 0.316245 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000307 seconds.
+  path: Assets/SimpleCumulus/Skyboxes/PlainColor/Purple/SimpleCumulus_Purple_05/Textures/Back.2048x2048.png
+  artifactKey: Guid(5895feaf56eb97b44949b3f7b3ddedb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleCumulus/Skyboxes/PlainColor/Purple/SimpleCumulus_Purple_05/Textures/Back.2048x2048.png using Guid(5895feaf56eb97b44949b3f7b3ddedb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '908bf60e6c1fa3a0e2e7c8642bd1b702') in 0.322198 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000356 seconds.
+  path: Assets/SimpleCumulus/Skyboxes/PlainColor/Blue/SimpleCumulus_Blue_02/Textures/Down.2048x2048.png
+  artifactKey: Guid(aafd6e64d59aace41bbc817c0219d955) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleCumulus/Skyboxes/PlainColor/Blue/SimpleCumulus_Blue_02/Textures/Down.2048x2048.png using Guid(aafd6e64d59aace41bbc817c0219d955) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0c5b64b074bc4cf9f1bab3cd386cddd') in 0.382854 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000357 seconds.
+  path: Assets/SimpleCumulus/Skyboxes/PlainColor/Red/SimpleCumulus_Red_02/Textures/Down.2048x2048.png
+  artifactKey: Guid(6a119a7c0d73d454abdedfb01783ac40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleCumulus/Skyboxes/PlainColor/Red/SimpleCumulus_Red_02/Textures/Down.2048x2048.png using Guid(6a119a7c0d73d454abdedfb01783ac40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97ec00ff33b7669f2edc6486b6d1edce') in 0.391619 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000339 seconds.
+  path: Assets/SimpleCumulus/Skyboxes/PlainColor/Purple/SimpleCumulus_Purple_02/Textures/Down.2048x2048.png
+  artifactKey: Guid(7273318c7ef5a354e8b93cf2510b5a16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleCumulus/Skyboxes/PlainColor/Purple/SimpleCumulus_Purple_02/Textures/Down.2048x2048.png using Guid(7273318c7ef5a354e8b93cf2510b5a16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a419b16c84fd933def9c9e2be9fb6db') in 0.318489 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000347 seconds.
+  path: Assets/SimpleCumulus/Skyboxes/PlainColor/Purple/SimpleCumulus_Purple_01/Textures/Down.2048x2048.png
+  artifactKey: Guid(78ca4f31793b066439a6bf87c43032d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleCumulus/Skyboxes/PlainColor/Purple/SimpleCumulus_Purple_01/Textures/Down.2048x2048.png using Guid(78ca4f31793b066439a6bf87c43032d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74aa956f91374dedbd577649e5379163') in 0.275361 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000419 seconds.
+  path: Assets/SimpleCumulus/Skyboxes/Gradient/SimpleCumulus_Gradient_07/Textures/Down.2048x2048.png
+  artifactKey: Guid(bd338f803464a86468f3e72a6c92fbaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleCumulus/Skyboxes/Gradient/SimpleCumulus_Gradient_07/Textures/Down.2048x2048.png using Guid(bd338f803464a86468f3e72a6c92fbaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76cfba5f06858dc1614bd99619bec166') in 0.291391 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000374 seconds.
+  path: Assets/SimpleCumulus/Skyboxes/PlainColor/Red/SimpleCumulus_Red_01/Textures/Back.2048x2048.png
+  artifactKey: Guid(b8182bb3e31fc174ba88b343691cffea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleCumulus/Skyboxes/PlainColor/Red/SimpleCumulus_Red_01/Textures/Back.2048x2048.png using Guid(b8182bb3e31fc174ba88b343691cffea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85c3ed892a97cc3715018a442773d71d') in 0.288892 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 34.494668 seconds.
+  path: Assets/SimpleCumulus/Skyboxes/Gradient/SimpleCumulus_Gradient_08/Textures/Down.2048x2048.png
+  artifactKey: Guid(3db8d346f76153542b05e8549e71e21f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleCumulus/Skyboxes/Gradient/SimpleCumulus_Gradient_08/Textures/Down.2048x2048.png using Guid(3db8d346f76153542b05e8549e71e21f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f66769b1ff632ddc2b0a1204868b1041') in 0.684312 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000343 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Electronic Highway Sign SDF.asset
+  artifactKey: Guid(dc36b3fdc14f47ebb36fd484a67e268a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Electronic Highway Sign SDF.asset using Guid(dc36b3fdc14f47ebb36fd484a67e268a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f55cec751fd1b6549958ab4ccb750c9') in 0.073029 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000296 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Sprites/DropCap Numbers.psd
+  artifactKey: Guid(fd09957580ac4326916010f1f260975b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Sprites/DropCap Numbers.psd using Guid(fd09957580ac4326916010f1f260975b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50f541325472f014ff762f87c52c214e') in 0.070194 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/TextMesh Pro/Sprites/EmojiOne.png
+  artifactKey: Guid(dffef66376be4fa480fb02b19edbe903) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Sprites/EmojiOne.png using Guid(dffef66376be4fa480fb02b19edbe903) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a87437e26ebf77815a1ca41504295c18') in 0.027778 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.918837 seconds.
+  path: Assets/SimpleCumulus/Skyboxes/PlainColor/Orange/SimpleCumulus_Orange_01/Textures/Front.2048x2048.png
+  artifactKey: Guid(a20d0a21c4a4d354497e30eea5b3d0a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleCumulus/Skyboxes/PlainColor/Orange/SimpleCumulus_Orange_01/Textures/Front.2048x2048.png using Guid(a20d0a21c4a4d354497e30eea5b3d0a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97248c12df2fc19d9272b361d1c3ea75') in 0.354206 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000318 seconds.
+  path: Assets/SimpleCumulus/Skyboxes/PlainColor/Orange/SimpleCumulus_Orange_02/Textures/Front.2048x2048.png
+  artifactKey: Guid(4e641998ceee9564195e8aabb57ef71d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleCumulus/Skyboxes/PlainColor/Orange/SimpleCumulus_Orange_02/Textures/Front.2048x2048.png using Guid(4e641998ceee9564195e8aabb57ef71d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa080f68cd92b0bfd175b1cbba1ab0f6') in 0.353432 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000333 seconds.
+  path: Assets/SimpleCumulus/Skyboxes/PlainColor/Purple/SimpleCumulus_Purple_05/Textures/Front.2048x2048.png
+  artifactKey: Guid(b5de0fd9160a75d4f8fc1305238e3828) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleCumulus/Skyboxes/PlainColor/Purple/SimpleCumulus_Purple_05/Textures/Front.2048x2048.png using Guid(b5de0fd9160a75d4f8fc1305238e3828) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e84b7cc5f2f998df3c3adbc3d3537af') in 0.278573 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000397 seconds.
+  path: Assets/SimpleCumulus/Skyboxes/PlainColor/Purple/SimpleCumulus_Purple_02/Textures/Front.2048x2048.png
+  artifactKey: Guid(5f9559ba0918df84fb47430444365332) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleCumulus/Skyboxes/PlainColor/Purple/SimpleCumulus_Purple_02/Textures/Front.2048x2048.png using Guid(5f9559ba0918df84fb47430444365332) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '681fe5363b8276a4229b525b2a453683') in 0.271028 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 83.942353 seconds.
+  path: Assets/SimpleCumulus/Skyboxes/Gradient/SimpleCumulus_Gradient_08/Textures/Front.2048x2048.png
+  artifactKey: Guid(e3e5ba15d7922b64e9ede4c1e19650ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleCumulus/Skyboxes/Gradient/SimpleCumulus_Gradient_08/Textures/Front.2048x2048.png using Guid(e3e5ba15d7922b64e9ede4c1e19650ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f724b2b749b340353033ec602c77f30') in 0.691738 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/SimpleCumulus/Skyboxes/PlainColor/Purple/SimpleCumulus_Purple_01/Textures/Front.2048x2048.png
+  artifactKey: Guid(8ddff866dd69acd4ebb96a1f4aaa711f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleCumulus/Skyboxes/PlainColor/Purple/SimpleCumulus_Purple_01/Textures/Front.2048x2048.png using Guid(8ddff866dd69acd4ebb96a1f4aaa711f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79d386633f3db6c29e341c532f0d0ac7') in 0.248714 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000361 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Textures/Fruit Jelly (B&W).jpg
+  artifactKey: Guid(1cdc5b506b1a4a33a53c30669ced1f51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Textures/Fruit Jelly (B&W).jpg using Guid(1cdc5b506b1a4a33a53c30669ced1f51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67fb1bcce55adc6a7f2f56a57f07640d') in 0.074159 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000367 seconds.
+  path: Assets/SimpleCumulus/Skyboxes/Gradient/SimpleCumulus_Gradient_07/Textures/Front.2048x2048.png
+  artifactKey: Guid(5b780c8feefb74a4a9e62f5561fb1c3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleCumulus/Skyboxes/Gradient/SimpleCumulus_Gradient_07/Textures/Front.2048x2048.png using Guid(5b780c8feefb74a4a9e62f5561fb1c3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47af6e37bab16d7ad16f8792419d5b15') in 0.307429 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.637074 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Textures/Gradient Horizontal (Color).jpg
+  artifactKey: Guid(6eb184de103d4b3f812b38561065192f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Textures/Gradient Horizontal (Color).jpg using Guid(6eb184de103d4b3f812b38561065192f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfffc749f0bb65c8d6762d399fd31ecc') in 0.135887 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000340 seconds.
+  path: Assets/SimpleCumulus/Skyboxes/PlainColor/Red/SimpleCumulus_Red_02/Textures/Left.2048x2048.png
+  artifactKey: Guid(42a2f15ab60e7a4419049f2bf0bb8646) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleCumulus/Skyboxes/PlainColor/Red/SimpleCumulus_Red_02/Textures/Left.2048x2048.png using Guid(42a2f15ab60e7a4419049f2bf0bb8646) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e0618539e59b8c79f7aead954db5340') in 0.324965 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000373 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset
+  artifactKey: Guid(2e498d1c8094910479dc3e1b768306a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset using Guid(2e498d1c8094910479dc3e1b768306a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78aa3bf47a40d3ca8b917b4aa0b18e34') in 0.029965 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000362 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
+  artifactKey: Guid(8f586378b4e144a9851e7b34d9b748ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset using Guid(8f586378b4e144a9851e7b34d9b748ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f299e0e7e80fce2e515c0b575a736c12') in 0.061414 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/SimpleCumulus/Skyboxes/PlainColor/Blue/SimpleCumulus_Blue_04/Textures/Right.2048x2048.png
+  artifactKey: Guid(c72e569a905b10246ac5e4c9fea0e25d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleCumulus/Skyboxes/PlainColor/Blue/SimpleCumulus_Blue_04/Textures/Right.2048x2048.png using Guid(c72e569a905b10246ac5e4c9fea0e25d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c03cf469f07623c2a82d75a5a7d9a88') in 0.318277 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000281 seconds.
+  path: Assets/SimpleCumulus/Skyboxes/Gradient/SimpleCumulus_Gradient_04/Textures/Right.2048x2048.png
+  artifactKey: Guid(ebe9405d1e2b2104fafa85021dcd50f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleCumulus/Skyboxes/Gradient/SimpleCumulus_Gradient_04/Textures/Right.2048x2048.png using Guid(ebe9405d1e2b2104fafa85021dcd50f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38cc0df5aa15ddc02bd767ab566bcd43') in 0.268631 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000443 seconds.
+  path: Assets/SimpleCumulus/Skyboxes/Gradient/SimpleCumulus_Gradient_03/Textures/Left.2048x2048.png
+  artifactKey: Guid(caf80bc6aa5aad046aee88f70f187bf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleCumulus/Skyboxes/Gradient/SimpleCumulus_Gradient_03/Textures/Left.2048x2048.png using Guid(caf80bc6aa5aad046aee88f70f187bf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12e1dab16c930edbf735d7500084847a') in 0.299006 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000347 seconds.
+  path: Assets/SimpleCumulus/Skyboxes/Gradient/SimpleCumulus_Gradient_08/Textures/Right.2048x2048.png
+  artifactKey: Guid(bdfb2c89a05d65a46ab6b8a00bb6a3e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleCumulus/Skyboxes/Gradient/SimpleCumulus_Gradient_08/Textures/Right.2048x2048.png using Guid(bdfb2c89a05d65a46ab6b8a00bb6a3e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5a3a11dd414684801290ecf58e1ae88') in 0.379936 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000396 seconds.
+  path: Assets/SimpleCumulus/Skyboxes/PlainColor/Red/SimpleCumulus_Red_01/Textures/Right.2048x2048.png
+  artifactKey: Guid(74b1b447847cf334f9916486f672c291) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleCumulus/Skyboxes/PlainColor/Red/SimpleCumulus_Red_01/Textures/Right.2048x2048.png using Guid(74b1b447847cf334f9916486f672c291) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a55cb99339166f33f9d02617be19829e') in 0.276931 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000346 seconds.
+  path: Assets/SimpleCumulus/Skyboxes/PlainColor/Blue/SimpleCumulus_Blue_03/Textures/Right.2048x2048.png
+  artifactKey: Guid(bfa1a29bd9d850643ac217746e1721c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleCumulus/Skyboxes/PlainColor/Blue/SimpleCumulus_Blue_03/Textures/Right.2048x2048.png using Guid(bfa1a29bd9d850643ac217746e1721c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3fd9e0b436b33d8e5cc17abead2faef') in 0.250152 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000337 seconds.
+  path: Assets/SimpleCumulus/Skyboxes/Gradient/SimpleCumulus_Gradient_01/Textures/Right.2048x2048.png
+  artifactKey: Guid(12010e7107ea0c748a9e3e5024f940e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleCumulus/Skyboxes/Gradient/SimpleCumulus_Gradient_01/Textures/Right.2048x2048.png using Guid(12010e7107ea0c748a9e3e5024f940e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22fdfd595b650739ab1bfc791bb0a54c') in 0.349011 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000427 seconds.
+  path: Assets/SimpleCumulus/Skyboxes/PlainColor/Orange/SimpleCumulus_Orange_04/Textures/Left.2048x2048.png
+  artifactKey: Guid(a274ead2b9fc02340be7b156e1eb9d42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleCumulus/Skyboxes/PlainColor/Orange/SimpleCumulus_Orange_04/Textures/Left.2048x2048.png using Guid(a274ead2b9fc02340be7b156e1eb9d42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b091fef0c09e5d28bbee003ff529cf8c') in 0.345926 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000402 seconds.
+  path: Assets/SimpleCumulus/Skyboxes/Gradient/SimpleCumulus_Gradient_01/Textures/Left.2048x2048.png
+  artifactKey: Guid(d1fedf8f41b9baa46b15f7c18ee9b0e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleCumulus/Skyboxes/Gradient/SimpleCumulus_Gradient_01/Textures/Left.2048x2048.png using Guid(d1fedf8f41b9baa46b15f7c18ee9b0e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '575b6a93419d3043e014991629a3dd06') in 0.292754 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000347 seconds.
+  path: Assets/SimpleCumulus/Skyboxes/PlainColor/Orange/SimpleCumulus_Orange_02/Textures/Left.2048x2048.png
+  artifactKey: Guid(c13f45a419b37764085e71120e927511) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleCumulus/Skyboxes/PlainColor/Orange/SimpleCumulus_Orange_02/Textures/Left.2048x2048.png using Guid(c13f45a419b37764085e71120e927511) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c6d1837ae6d69d0e3bf6597e0b0892a') in 0.354996 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000353 seconds.
+  path: Assets/SimpleCumulus/Skyboxes/PlainColor/Red/SimpleCumulus_Red_04/Textures/Right.2048x2048.png
+  artifactKey: Guid(1dd9b5f5cbc742a448eb9cc21e0a9e32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleCumulus/Skyboxes/PlainColor/Red/SimpleCumulus_Red_04/Textures/Right.2048x2048.png using Guid(1dd9b5f5cbc742a448eb9cc21e0a9e32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e52b86e9ee15b841c9ef7b62cedf57f7') in 0.230631 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000326 seconds.
+  path: Assets/SimpleCumulus/Skyboxes/PlainColor/Blue/SimpleCumulus_Blue_01/Textures/Right.2048x2048.png
+  artifactKey: Guid(724a07cdb0a92c0439cc8904b1105028) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleCumulus/Skyboxes/PlainColor/Blue/SimpleCumulus_Blue_01/Textures/Right.2048x2048.png using Guid(724a07cdb0a92c0439cc8904b1105028) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b802dc5b6e021fb2b5a5486190635ce5') in 0.251895 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000306 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Textures/Mask Zig-n-Zag.psd
+  artifactKey: Guid(bb8dfcd263ad4eb383a33d74a720be6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Textures/Mask Zig-n-Zag.psd using Guid(bb8dfcd263ad4eb383a33d74a720be6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab9a08b97a280799cfe497279fd76067') in 0.100263 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000415 seconds.
+  path: Assets/SimpleCumulus/Skyboxes/PlainColor/Purple/SimpleCumulus_Purple_05/Textures/Left.2048x2048.png
+  artifactKey: Guid(3d4214ea9ad5f534fa2bf107bfecab0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleCumulus/Skyboxes/PlainColor/Purple/SimpleCumulus_Purple_05/Textures/Left.2048x2048.png using Guid(3d4214ea9ad5f534fa2bf107bfecab0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e79685d6c280f6324e79e8b97a027768') in 0.326246 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000410 seconds.
+  path: Assets/SimpleCumulus/Skyboxes/Gradient/SimpleCumulus_Gradient_06/Textures/Right.2048x2048.png
+  artifactKey: Guid(5aba6a053d458d449835cda92e0f28c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleCumulus/Skyboxes/Gradient/SimpleCumulus_Gradient_06/Textures/Right.2048x2048.png using Guid(5aba6a053d458d449835cda92e0f28c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9edf81a03268a329980afb5da8e24e56') in 0.280102 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000324 seconds.
+  path: Assets/SimpleCumulus/Skyboxes/PlainColor/Purple/SimpleCumulus_Purple_06/Textures/Left.2048x2048.png
+  artifactKey: Guid(df2da3f0690cc6641bdad70dc143a9eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleCumulus/Skyboxes/PlainColor/Purple/SimpleCumulus_Purple_06/Textures/Left.2048x2048.png using Guid(df2da3f0690cc6641bdad70dc143a9eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2936ead7da8be6c71cc424d039d0bba5') in 0.322175 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.001142 seconds.
+  path: Assets/SimpleCumulus/Skyboxes/PlainColor/Purple/SimpleCumulus_Purple_03/Textures/Left.2048x2048.png
+  artifactKey: Guid(221d6520519d5df4bbdb4f23d9d43f60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleCumulus/Skyboxes/PlainColor/Purple/SimpleCumulus_Purple_03/Textures/Left.2048x2048.png using Guid(221d6520519d5df4bbdb4f23d9d43f60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4a9b2faf5899f32c75eb0110b4a913c') in 0.383041 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000339 seconds.
+  path: Assets/SimpleCumulus/Skyboxes/Gradient/SimpleCumulus_Gradient_07/Textures/Left.2048x2048.png
+  artifactKey: Guid(3e0a6cc581fb2164c9b67beff7d096c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleCumulus/Skyboxes/Gradient/SimpleCumulus_Gradient_07/Textures/Left.2048x2048.png using Guid(3e0a6cc581fb2164c9b67beff7d096c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca09a0d823e28e3935c66bc5977daa60') in 0.385688 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000389 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Oswald Bold SDF.asset
+  artifactKey: Guid(0161d805a3764c089bef00bfe00793f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Oswald Bold SDF.asset using Guid(0161d805a3764c089bef00bfe00793f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92fde8ae0600e117ed53f61a2754a0ab') in 0.119297 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 59.816963 seconds.
+  path: Assets/Materials/BlockMaterial.mat
+  artifactKey: Guid(59ae945d10f38f646937ec021b1fb79f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/BlockMaterial.mat using Guid(59ae945d10f38f646937ec021b1fb79f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ef3dcf9b676afd1eb34e8004289875c') in 0.041138 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003888 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 3.77 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  2.769 seconds
+Platform modules already initialized, skipping
+Script error (destroy): Start() can not take parameters.
+
+Script error (destroy): Start() can not take parameters.
+
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.93 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2763 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 1.28 GB.
+System memory in use after: 1.28 GB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 4530.
+Total: 3.852700 ms (FindLiveObjects: 0.565600 ms CreateObjectMapping: 0.246000 ms MarkObjects: 2.904300 ms  DeleteObjects: 0.102300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003155 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.69 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.311 seconds
+Platform modules already initialized, skipping
+Script error (destroy): Start() can not take parameters.
+
+Script error (destroy): Start() can not take parameters.
+
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.64 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2709 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 1.28 GB.
+System memory in use after: 1.28 GB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 4533.
+Total: 3.543200 ms (FindLiveObjects: 0.739500 ms CreateObjectMapping: 0.241200 ms MarkObjects: 2.493500 ms  DeleteObjects: 0.067100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006552 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.10 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  2.450 seconds
+Platform modules already initialized, skipping
+Script error (destroy): Start() can not take parameters.
+
+Script error (destroy): Start() can not take parameters.
+
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 1.05 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2709 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 1.28 GB.
+System memory in use after: 1.28 GB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 4536.
+Total: 5.740700 ms (FindLiveObjects: 0.730100 ms CreateObjectMapping: 0.399800 ms MarkObjects: 4.498500 ms  DeleteObjects: 0.110300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
